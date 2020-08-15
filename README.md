@@ -1,3 +1,7 @@
+DIAGRAMA DE TODAS LAS CLASES 
+
+![Directamente desde un link](http://www.plantuml.com/plantuml/png/lPFBpjem48NtUGelwO8NG5rm0RML6eJKli1W3uahsvFwqat2kpSnmOIV87uXnCvYBkURSyZSUR0-Q9Ln1Swn9LWhYTKPOmmLQZIU79kndx9jx7wiDVgIn951OR40k-cR9kVkBpDMKbjeD3XE7feoeFqmwu0_EPcObW4DkKaximrwZtQyAmTrlycjg091NNb9f10CPSVUX-yTI7J1o7-eyb1O76xXP0va_VZY27UzTrW_15nuu9rqfQ20jey73XPu2OqczpT8JqqLL06kQJ4iLE319RRyPC-5xXUe81BA2wGUdfDiYWcnYCAX0Yu5Y9qb4JYNPDvi3-t_8FVin_Rt8X9L2IINHcf8ECTirsrcNvlfbCNdwgnmKybxnPl2BX9aW_UW-Et2rLjr6ZznqLv1XyL63V8MZDFIuyOSq6eK8EwQ1PrJzj4dbFAwklLCWuxQo5eTIQCyyJ-snZKO6LDxFt8AeNurs4KbfVWfZJHt7NRztALpD29ezHy0)
+
 # Documentando un programa Wollok
 
 El objetivo de este ejercicio es comenzar a ejercitar la idea de _documentar_ un diseño, partiendo en este caso de una implementación existente. Dejamos el enunciado original en [otro archivo](./dominio.md) por si necesitan consultarlo.
